@@ -3,7 +3,6 @@
 /* Purpose   : This file declares the functions for lc4_loader.c		*/
 /*             															*/
 /*             															*/
-/* Author(s) : tjf														*/
 /************************************************************************/
 
 #include <stdio.h>
