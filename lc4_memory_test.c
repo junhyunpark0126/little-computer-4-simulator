@@ -3,7 +3,6 @@
 /* Purpose   : This file is for part1 of the assignment only			*/
 /* 			   It allows you to test functions in lc4_memory.c			*/
 /*             															*/
-/* Author(s) : tjf and you												*/
 /************************************************************************/
 
 #include <stdio.h>
