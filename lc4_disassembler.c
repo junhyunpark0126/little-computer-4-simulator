@@ -3,7 +3,6 @@
 /* Purpose   : This file implements the reverse assembler 				*/
 /*             for LC4 assembly.  It will be called by main()			*/
 /*             															*/
-/* Author(s) : tjf and you												*/
 /************************************************************************/
 
 #include <stdio.h>
