@@ -3,7 +3,6 @@
 /* Purpose   : This program contains the structure for the LC4 memory's	*/
 /* 			   linked list and the declarations of the helper functions */
 /*             															*/
-/* Author(s) : tjf 														*/
 /************************************************************************/
 
 #ifndef LC4_MEMORY_H
