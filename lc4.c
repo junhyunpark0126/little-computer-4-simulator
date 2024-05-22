@@ -2,8 +2,6 @@
 /* File Name : lc4.c 													*/
 /* Purpose   : This file contains the main() for this project			*/
 /*             main() will call the loader and disassembler functions	*/
-/*             															*/
-/* Author(s) : tjf and you												*/
 /************************************************************************/
 
 #include <stdio.h>
@@ -70,7 +68,6 @@ int main (int argc, char** argv) {
 
 
 	/* step 3: determine filename, then open it		*/
-	/*   TODO: extract filename from argv, pass it to open_file() */
 	    if (argc >= 3) {
         // output filename
         output_filename = argv[1];
@@ -116,7 +113,6 @@ int main (int argc, char** argv) {
 
 
 	/* step 4: call function: parse_file() in lc4_loader.c 	*/
-	/*   TODO: call function & check for errors		*/
 
 
 	/* step 5: repeat steps 3 and 4 for each .OBJ file in argv[] 	*/
